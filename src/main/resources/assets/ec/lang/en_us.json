@@ -1,0 +1,16 @@
+{
+  "commands.ec.whitelist.empty": "=== Whitelist Mobs ===\nEmpty",
+  "commands.ec.whitelist.title": "=== Whitelist Mobs ===",
+  "commands.ec.whitelist.add.success": "Added %s to whitelist",
+  "commands.ec.blacklist.empty": "=== Blacklist Mobs ===\nEmpty",
+  "commands.ec.blacklist.title": "=== Blacklist Mobs ===",
+  "commands.ec.blacklist.not_server_level": "Player is not in a server level",
+  "commands.ec.blacklist.not_player": "This command can only be executed by a player",
+  "commands.ec.language.current": "Current language: %s",
+  "commands.ec.language.available": "Available languages: %s",
+  "commands.ec.language.set.success": "Language set to: %s",
+  "commands.ec.reload.success": "Whitelist reloaded successfully",
+  "commands.ec.reload.failed": "Failed to reload whitelist",
+  "commands.ec.language.en_us": "English (US)",
+  "commands.ec.language.zh_cn": "Chinese (Simplified)"
+}
