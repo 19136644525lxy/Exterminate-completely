@@ -16,12 +16,14 @@ out
 # gradle
 build
 .gradle
+gradle-8.8/
 
 # other
 eclipse
 run
 logs/
 bin/
+main.bat
 
 # Files from Forge MDK
 forge*changelog.txt
