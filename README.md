@@ -1,6 +1,9 @@
 # Exterminate Completely
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub](https://img.shields.io/badge/GitHub-Exterminate%20Completely-blue)](https://github.com/19136644525lxy/Exterminate-completely)
+[![CurseForge](https://img.shields.io/badge/CurseForge-Exterminate%20Completely-orange)](https://www.curseforge.com/minecraft/mc-mods/exterminate-completely)
+[![Modrinth](https://img.shields.io/badge/Modrinth-Exterminate%20Completely-blue)](https://modrinth.com/mod/exterminate-completely)
 
 ## 项目介绍
 
